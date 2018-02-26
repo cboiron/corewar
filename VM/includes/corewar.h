@@ -6,7 +6,7 @@
 /*   By: abrichar <abrichar@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/02/13 18:11:25 by abrichar          #+#    #+#             */
-/*   Updated: 2018/02/24 17:19:56 by abrichar         ###   ########.fr       */
+/*   Updated: 2018/02/26 15:47:28 by abrichar         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,6 +15,7 @@
 
 # include <stdlib.h>
 # include "../../libft/includes/libft.h"
+# include "./op.h"
 
 # define CYCLE_TO_DIE 42
 # define CYCLE_DELTA 3
